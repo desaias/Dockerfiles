@@ -2,7 +2,6 @@ FROM node:6.9.2-alpine
 
 MAINTAINER Dave <git@davidesaias.com>
 
-
 # Install Yarn
 RUN touch ~/.profile \
     && apk add --no-cache --virtual .build-deps tar curl bash gnupg \
