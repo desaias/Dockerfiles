@@ -10,8 +10,8 @@ Installing yarn the recommended way *(not via npm install)*
 
 | Image  | Size | Notes  |
 | ---  | ---  | ---  |
-| node:6.9.2-alpine  |50.7 MB  | Base Image  |
-| node:6.9.2-alpine w/yarn | 65 MB  | Recommended way of installing yarn |
+| node:6.9.2-alpine  |50.7 MB  | Base Image w/npm |
+| node:6.9.2-alpine w/yarn | 65 MB  | Recommended way of installing yarn (npm still included) |
 | node:6.9.2-alpine w/yarn via npm | 79.3 MB | Built with installing yarn via npm install -g yarn |
 
 
