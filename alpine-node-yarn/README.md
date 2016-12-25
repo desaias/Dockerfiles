@@ -6,7 +6,7 @@ Installing yarn the recommended way *(not via npm install)*
 | Image | Size | Notes |
 | --- | --- | --- |
 | mhart/alpine-node:base-6.9.2 | 38.2 MB | Base Image |
-| desaias/alpine-node | 52.4 MB | Node with Yarn (recommended install) |
+| desaias/alpine-node-yarn | 52.4 MB | Node with Yarn (recommended install) *This Dockerfile* |
 
 | Image  | Size | Notes  |
 | ---  | ---  | ---  |
