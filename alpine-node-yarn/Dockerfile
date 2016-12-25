@@ -1,4 +1,4 @@
-FROM node:6.9.2-alpine
+FROM mhart/alpine-node:base-6.9.2
 
 MAINTAINER Dave <git@davidesaias.com>
 
