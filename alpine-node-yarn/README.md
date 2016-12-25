@@ -1,6 +1,6 @@
 # Alpine Node with Yarn
 
-Installing yarn the recommended way (not via npm install)
+Installing yarn the recommended way *(not via npm install)*
 
 | Image  | Size | Notes  |
 | ---  | ---  | ---  |
